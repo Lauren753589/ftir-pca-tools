@@ -1,0 +1,11 @@
+# Keep data, figures and the material name key out of the repository
+material_names.json
+*.csv
+*.sp
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pptx
+__pycache__/
